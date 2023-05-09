@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Debug Menu
+// @author       Mr. Slimey
 // @namespace    https://www.youtube.com/@mrslimey33
 // @version      1.2.3
 // @description  Adds a menu to your screen that is toggled with Alt+O that has a ton of developer tools, debug tools, and other items too, such as games. To run, press any option in the top right drop-down menu and watch the magic happen!
